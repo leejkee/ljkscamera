@@ -1,6 +1,8 @@
 import cv2
 
-cv2.namedWindow('image')
+#if you want to open a new window
+#cv2.namedWindow('window')
+
 #camera.start_preview()
 
 while True:
@@ -25,12 +27,10 @@ while True:
             print('Stop recording...(the video have been saved in /home/pi/Desktop/camera)...')
             #camera.stop_recording()
             
-            
    #if you want to use the waiting tips
    #else:
         #no keyboard pressing
        # print('no keyboard pressing,wait 1s')
 
-
 #camera.stop_preview()
-cv2.destroyWindow('image')
+#cv2.destroyWindow('window')
