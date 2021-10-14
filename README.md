@@ -1,5 +1,5 @@
 # ljkscamera
-My photoelectric engineering training, we conctrl the rasberrypi camera to record a video or take a picture by a script using python3.
+My photoelectric engineering training, we conctrl the rasberrypi camera to record a video and take a picture by python3.
 
 
 
