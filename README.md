@@ -13,6 +13,6 @@ record videos:`record_video.py`
 
 control the camera by keyboard:`waitKeyDemo_1_.py`
 
-extract frames:`imageCapture_demo.py`
+extract frames:`imageCapture_demo1.py`
 
 Created in October 14,2021
